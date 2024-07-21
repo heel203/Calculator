@@ -19,8 +19,8 @@ This Basic Calculator app is developed using Android Studio. The app allows user
 - **User Interface:** XML for layout design
 
 ## Screenshots
-
 - Splash Activity
+  
   ![WhatsApp Image 2024-07-21 at 16 02 33_379a986d](https://github.com/user-attachments/assets/8d1aa135-5070-4f19-9984-84396e6ac138)
 
 - Main Activity
