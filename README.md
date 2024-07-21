@@ -27,6 +27,5 @@ This Basic Calculator app is developed using Android Studio. The app allows user
 
   ![WhatsApp Image 2024-07-21 at 16 01 52_afafad2a](https://github.com/user-attachments/assets/532ef272-f578-47a5-b9c1-a27441e14a0d)
 
-![Calculator Screen](./images/calculator_screen.png)
 
 
